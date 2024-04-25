@@ -1,0 +1,10 @@
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\obj\Debug\Herencia.Form1.resources
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\obj\Debug\Herencia.Properties.Resources.resources
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\obj\Debug\Herencia.csproj.GenerateResource.cache
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\Licenciaturas\Downloads\Herencia\Herencia\obj\Debug\Herencia.pdb
